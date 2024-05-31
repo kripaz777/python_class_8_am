@@ -1,0 +1,2 @@
+Ram,45,Kathmandu
+Shyam,56,Bhaktapur
